@@ -1,7 +1,9 @@
 ### Hi there I'm riblanc
 
 ![RiblancStats](https://github-readme-stats.vercel.app/api?username=riblanc&show_icons=true&theme=dracula)
-[![lifetree](https://github.com/user-attachments/assets/7ded925f-377f-4047-ab66-d67d47e72e4d)](#)
+<p align="center">
+  <a href="#" width="100%"><img src="https://github.com/user-attachments/assets/7ded925f-377f-4047-ab66-d67d47e72e4d" width="85%"/></a>
+</p>
 
 
 <!--

@@ -7,8 +7,7 @@
             <img src="https://github-readme-streak-stats.herokuapp.com?user=riblanc&theme=apprentice&background=07090C&border=424242&salt=1175282687" />
         </td>
         <td>
-            <a href="#" width="100%"><img src="https://github.com/user-attachments/assets/d902c142-c811-4c9d-bcea-2fe4c6384bca" /></a>
+            <a href="#" width="100%"><img src="https://github.com/user-attachments/assets/04043264-d2bc-40ba-bfc7-55a9381c71ab" /></a>
         </td>
     </tr>
 </table>
-

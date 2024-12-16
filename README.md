@@ -1,7 +1,8 @@
 ### Hi there I'm riblanc
 
 ![RiblancStats](https://github-readme-stats.vercel.app/api?username=riblanc&show_icons=true&theme=dracula)
-![lifetree](https://github.com/user-attachments/assets/04ecb13d-363a-4313-aef5-1c71616683d3)
+[![lifetree](https://github.com/user-attachments/assets/7ded925f-377f-4047-ab66-d67d47e72e4d)](#)
+
 
 <!--
 **riblanc/riblanc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

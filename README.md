@@ -2,7 +2,7 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=riblanc&show_icons=true&theme=apprentice&bg_color=0003&border_color=424242&card_width=500px&salt=1175282698"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=riblanc&theme=apprentice&background=0003&border=424242&card_width=500px&salt=1175282688"/>
+    <img src="https://github-readme-streak-stats-nu-opal-32.vercel.app?user=riblanc&theme=apprentice&background=0003&border=424242&card_width=500px&salt=1175282698"/>
 </div>
 
 <br>

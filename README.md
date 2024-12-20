@@ -8,7 +8,7 @@
 <div align="center"><h1>🏴‍☠ Root-Me </h1></div>
 
 <div align="center">
-    <img src="https://riblanc_dev.42ctf.org/card/riblanc.svg"/>
+    <img src="https://riblanc_dev.42ctf.org/card/riblanc?width=650&border_color=#424242&border_width=1"/>
 </div>
 
 <br>

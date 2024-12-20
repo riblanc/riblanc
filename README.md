@@ -27,12 +27,13 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" height="48px" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="48px" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="48px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="48px" />
                 <img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000" height="48px" />
                 <h3>Tools</h3>
                 <img src="https://github.com/user-attachments/assets/bd9b2bae-ac4d-4129-b8d0-312a840a3397" height="54px" />
-                <img src="https://github.com/user-attachments/assets/96cd3600-56e6-4a02-a283-3d10c80aa66c" height="54px" />               
-            </td>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="48px" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="42px"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" height="42px"/>
+                </td>
             <td>
                 <h3>Languages</h3>
                 <h3>Tools</h3>

@@ -13,71 +13,104 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
 </div>
 
 <div align="center"><h2><img align="center" src="https://img.icons8.com/?size=100&id=110189&format=png&color=000000" width="40px"/>&nbsp;&nbsp;Languages / Framework / Tools / Things</h2>
+
+<h3>Système (app dev, embedded..)</h3>
 <table>
     <thead>
         <tr>
-            <th><strong>System (app dev, embedded..)</strong></th>
-            <th><strong>Web</strong></th>
-            <th>Sysadmin / Cloud..</th>
+            <th>Languages</th>
+            <th>Tools</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td valign="top">
-                <a href="#">
-                <h3>Languages</h3>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" height="48px" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="48px" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="48px" />
                 <img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000" height="48px" />
-                <h3>Tools</h3>
+            </td>
+            <td valign="top">
                 <img src="https://github.com/user-attachments/assets/bd9b2bae-ac4d-4129-b8d0-312a840a3397" height="54px" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="48px" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="42px"/>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" height="42px"/>
-                </td>
-                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h3>Web</h3>
+<table>
+    <thead>
+        <tr>
+            <th>Languages</th>
+            <th>Frontend Frameworks / UI Libs</th>
+            <th>Backend Frameworks</th>
+            <th>Databases / cache</th>
+            <th>Tools</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
             <td valign="top">
-                <a href="#">
-                <h3>Languages</h3>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="48px"/>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="48px"/>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="38px" />&nbsp;&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="38px" />
-                <h3>Frontend Frameworks / UI Libs</h3>
+            </td>
+            <td valign="top">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" height="42px" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="38px" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height="38px" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="42px" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="42px" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" height="42px" />
-                <h3>Backend Frameworks</h3>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height=42px" />&nbsp;
+            </td>
+            <td valign="top">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="42px" />&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" height="42px" />
                 <img src="https://github.com/user-attachments/assets/f6c308ad-365f-482f-a1a7-2333018ad6e2" height="48px" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="48px" />
-                <h3>Databases / cache</h3>
+            </td>
+            <td valign="top">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="48px" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" height="48px" />&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain.svg" height="48px" />
-                <h3>Tools</h3>
+            </td>
+            <td valign="top">
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="48px" />&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="48px" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" height="48px" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" height="48px" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" height="48px" />&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="48px" />
-                </a>
-            </td>
-            <td>
-                <img src="https://github.com/user-attachments/assets/d77a8a5f-5e28-4377-bc7b-6b6aa4a17bb9" height="48px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="48px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg" height="48px" />
             </td>
         </tr>
     </tbody>
 </table>
-</div>
+
+<h3>Sysadmin / Cloud..</h3>
+<table>
+    <thead>
+        <tr>
+            <th>Tools</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top">
+                <img src="https://github.com/user-attachments/assets/d77a8a5f-5e28-4377-bc7b-6b6aa4a17bb9" height="48px" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="48px" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg" height="48px" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="48px" />&nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" height="48px" />
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
 
 <div align="center"><h2><img align="center" src="https://github.com/user-attachments/assets/e90a1fda-bb4c-479b-8b1d-fc8b7ff7289a" width="48px"/> Root-Me </h2></div>
 

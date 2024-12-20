@@ -1,6 +1,6 @@
 <div align="center"><h1>Hi there 👋 I'm riblanc</h1></div>
 
-<div align="center">
+<div align="center"><h1><img align="center" src="https://github.com/user-attachments/assets/60ab2e3d-a8e1-41c2-965f-0714d8931fca" width="40px"/>&nbsp;&nbsp;GitHub Stats</h1>
     <img src="https://github-readme-stats.vercel.app/api?username=riblanc&show_icons=true&theme=apprentice&bg_color=0d0f20e0&border_color=333&card_width=350px&salt=1175282703"/>
     <img src="https://github-readme-streak-stats-nu-opal-32.vercel.app?user=riblanc&theme=apprentice&background=0d0f20e0&border=333&card_width=350px&salt=1175282703"/>
 </div>
@@ -10,8 +10,6 @@
 <div align="center">
     <img src="https://riblanc_dev.42ctf.org/card/riblanc?width=800&border_color=0a0c20d0&bg_color=0d0f20e0&border_width=1&delay=750&salt=1175282703"/>
 </div>
-
-
 
 <br>
 <div align="center"><h1><img align="center" src="https://github.com/user-attachments/assets/4c1b5065-e19b-4676-8933-c673a4188af6" width="48px"/>Curriculum vitæ</h1>

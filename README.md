@@ -8,7 +8,7 @@
 <div align="center"><h1><img align="center" src="https://github.com/user-attachments/assets/e90a1fda-bb4c-479b-8b1d-fc8b7ff7289a" width="48px"/> Root-Me </h1></div>
 
 <div align="center">
-    <img src="https://riblanc_dev.42ctf.org/card/riblanc?width=750&bg_color=0d0f20e0&border_color=333&border_width=1&delay=1000&salt=1175282703"/>
+    <img src="https://riblanc_dev.42ctf.org/card/riblanc?width=800&border_color=0a0c20d0&bg_color=0d0f20e0&border_width=1&delay=750&salt=1175282703"/>
 </div>
 
 

@@ -12,17 +12,19 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
     <img src="https://github-readme-streak-stats-nu-opal-32.vercel.app?user=riblanc&theme=apprentice&background=0d0f20e0&border=333&card_width=350px&salt=1175282703"/>
 </div>
 
-<div align="center"><h2><img align="center" src="" width="40px"/>&nbsp;&nbsp;Languages / Framework / Tools / Things</h2>
+<div align="center"><h2><img align="center" src="https://img.icons8.com/?size=100&id=110189&format=png&color=000000" width="40px"/>&nbsp;&nbsp;Languages / Framework / Tools / Things</h2>
 <table>
     <thead>
         <tr>
             <th><strong>System (app dev, embedded..)</strong></th>
             <th><strong>Web</strong></th>
+            <th>Sysadmin / Cloud..</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td valign="top">
+                <a href="#">
                 <h3>Languages</h3>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" height="48px" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="48px" />
@@ -34,13 +36,15 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="42px"/>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" height="42px"/>
                 </td>
+                </a>
             <td valign="top">
+                <a href="#">
                 <h3>Languages</h3>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="48px"/>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="48px"/>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="38px" />&nbsp;&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="38px" />
-                <h3>Frontend Frameworks / Libs</h3>
+                <h3>Frontend Frameworks / UI Libs</h3>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" height="42px" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="38px" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height="38px" />
@@ -52,10 +56,23 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" height="42px" />
                 <img src="https://github.com/user-attachments/assets/f6c308ad-365f-482f-a1a7-2333018ad6e2" height="48px" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="48px" />
+                <h3>Databases / cache</h3>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="48px" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" height="48px" />&nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain.svg" height="48px" />
                 <h3>Tools</h3>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="48px" />&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="48px" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" height="48px" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" height="48px" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" height="48px" />&nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="48px" />
+                </a>
+            </td>
+            <td>
+                <img src="https://github.com/user-attachments/assets/d77a8a5f-5e28-4377-bc7b-6b6aa4a17bb9" height="48px" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="48px" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg" height="48px" />
             </td>
         </tr>
     </tbody>

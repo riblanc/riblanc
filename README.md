@@ -17,12 +17,12 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
     <thead>
         <tr>
             <th><strong>System (app dev, embedded..)</strong></th>
-            <th><strong>header2</strong></th>
+            <th><strong>Web</strong></th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>
+            <td valign="top">
                 <h3>Languages</h3>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" height="48px" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="48px" />
@@ -34,9 +34,28 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="42px"/>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" height="42px"/>
                 </td>
-            <td>
+            <td valign="top">
                 <h3>Languages</h3>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="48px"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="48px"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="38px" />&nbsp;&nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="38px" />
+                <h3>Frontend Frameworks / Libs</h3>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" height="42px" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="38px" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height="38px" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="42px" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="42px" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" height="42px" />
+                <h3>Backend Frameworks</h3>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height=42px" />&nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" height="42px" />
+                <img src="https://github.com/user-attachments/assets/f6c308ad-365f-482f-a1a7-2333018ad6e2" height="48px" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="48px" />
                 <h3>Tools</h3>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="48px" />&nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="48px" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" height="48px" />
             </td>
         </tr>
     </tbody>
@@ -52,3 +71,4 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
 <br>
 <div align="center"><h2><img align="center" src="https://github.com/user-attachments/assets/4c1b5065-e19b-4676-8933-c673a4188af6" width="48px"/>Curriculum vitæ</h2>
 <a href="#" width="100%"><img src="https://github.com/user-attachments/assets/04043264-d2bc-40ba-bfc7-55a9381c71ab" /></a>
+

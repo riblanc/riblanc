@@ -1,14 +1,14 @@
 <div align="center"><h1>Hi there 👋 I'm riblanc</h1></div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=riblanc&show_icons=true&theme=apprentice&bg_color=0a0e12&border_color=424242&card_width=500px&salt=1175282701"/>
-    <img src="https://github-readme-streak-stats-nu-opal-32.vercel.app?user=riblanc&theme=apprentice&background=0a0e12&border=424242&card_width=500px&salt=1175282701"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=riblanc&show_icons=true&theme=apprentice&bg_color=0a0e12c0&border_color=424242&card_width=500px&salt=1175282701"/>
+    <img src="https://github-readme-streak-stats-nu-opal-32.vercel.app?user=riblanc&theme=apprentice&background=0a0e12c0&border=424242&card_width=500px&salt=1175282701"/>
 </div>
 
 <div align="center"><h1>🏴‍☠ Root-Me </h1></div>
 
 <div align="center">
-    <img src="http://riblanc_dev.42ctf.org/card/riblanc?width=750&bg_color=0a0e12&border_color=424242&border_width=1&delay=1000&bg_color=0A0E12&salt=1175282701"/>
+    <img src="http://riblanc_dev.42ctf.org/card/riblanc?width=750&bg_color=0a0e12c0&border_color=424242&border_width=1&delay=1000&bg_color=0A0E12&salt=1175282701"/>
 </div>
 
 <br>

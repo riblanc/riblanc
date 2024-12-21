@@ -12,7 +12,7 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
     <img src="https://github-readme-streak-stats-nu-opal-32.vercel.app?user=riblanc&theme=apprentice&background=0d0f20e0&border=333&card_width=350px&salt=1175282703"/>
 </div>
 
-<div align="center"><h2><img align="center" src="https://img.icons8.com/?size=100&id=110189&format=png&color=000000" width="40px"/>&nbsp;&nbsp;Languages / Framework / Tools / Things</h2>
+<div align="center"><h2><img align="center" src="https://img.icons8.com/?size=100&id=110189&format=png&color=000000" width="40px"/>&nbsp;&nbsp;Languages / Framework / Tools / Things I'm mastering</h2>
 
 <h3>Système (app dev, embedded..)</h3>
 <table>
@@ -20,6 +20,7 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
         <tr>
             <th>Languages</th>
             <th>Tools</th>
+            <th>μC / arch</th>
         </tr>
     </thead>
     <tbody>
@@ -32,9 +33,15 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
             </td>
             <td valign="top">
                 <img src="https://github.com/user-attachments/assets/bd9b2bae-ac4d-4129-b8d0-312a840a3397" height="54px" />
+                <img src="https://github.com/user-attachments/assets/77c23817-b8ea-4b7c-9cf3-c3a38baac944" height="42px"/>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="48px" />
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="42px"/>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" height="42px"/>
+            </td>
+            <td valign="top">
+                <strong>x86 / x64</strong><br>
+                <strong>AVR</strong><br>
+                <strong>ESP32</strong>
             </td>
         </tr>
     </tbody>

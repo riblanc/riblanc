@@ -122,7 +122,7 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
 <div align="center"><h2><img align="center" src="https://github.com/user-attachments/assets/e90a1fda-bb4c-479b-8b1d-fc8b7ff7289a" width="48px"/> Root-Me </h2></div>
 
 <div align="center">
-    <img src="https://riblanc_dev.42ctf.org/card/riblanc?width=800&border_color=0a0c20d0&bg_color=0d0f20e0&border_width=1&delay=750&salt=1175282703"/>
+    <img src="https://rm-widget.vercel.app/card/riblanc?width=800&border_color=333&bg_color=0d0f20e0&border_width=1&delay=750&salt=1175282704"/>
 </div>
 
 <br>

@@ -8,7 +8,7 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
 <br>Much like Dirk Gently, I approach software development with a firm belief in the profound interconnectedness of all things. I guess "**holistic developer**" would be more appropriate ? :eyes:
 
 <div align="center">
-    <h1>I'm actually working on</h1>
+    <h1>I'm currently working on</h1>
     <a href="https://github.com/shadokos/kfs">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shadokos&repo=kfs&theme=apprentice&bg_color=0d0f20e0&border_color=333&card_width=350px"/>
     </a>

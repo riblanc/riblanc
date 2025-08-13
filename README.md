@@ -33,16 +33,19 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
     <tbody>
         <tr>
             <td valign="top">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" height="48px" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" height="48px" />&nbsp;&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="48px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="48px" />
+                <br><br>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="48px" />&nbsp;&nbsp;
                 <img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000" height="48px" />
             </td>
             <td valign="top">
-                <img src="https://github.com/user-attachments/assets/bd9b2bae-ac4d-4129-b8d0-312a840a3397" height="54px" />
+                <img src="https://github.com/user-attachments/assets/bd9b2bae-ac4d-4129-b8d0-312a840a3397" height="54px" />&nbsp;&nbsp;
                 <img src="https://github.com/user-attachments/assets/77c23817-b8ea-4b7c-9cf3-c3a38baac944" height="42px"/>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="48px" />
+                <br><br>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="48px" />&nbsp;&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="42px"/>
+                <br><br>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" height="42px"/>
             </td>
             <td valign="top">
@@ -68,36 +71,41 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
     <tbody>
         <tr>
             <td valign="top">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="48px"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="48px"/>&nbsp;&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="48px"/>
+                <br><br>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="38px" />&nbsp;&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="38px" />
             </td>
             <td valign="top">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" height="42px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="38px" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" height="42px" />&nbsp;&nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="38px" />&nbsp;&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height="38px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="42px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="42px" />
+                <br><br>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="42px" />&nbsp;&nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="42px" />&nbsp;&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" height="42px" />
             </td>
             <td valign="top">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="42px" />&nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="42px" />&nbsp;&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" height="42px" />
-                <img src="https://github.com/user-attachments/assets/f6c308ad-365f-482f-a1a7-2333018ad6e2" height="48px" />
+                <br><br>
+                <img src="https://github.com/user-attachments/assets/f6c308ad-365f-482f-a1a7-2333018ad6e2" height="48px" />&nbsp;&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="48px" />
             </td>
             <td valign="top">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="48px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" height="48px" />&nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="48px" />&nbsp;&nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" height="48px" />
+                <br><br>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain.svg" height="48px" />
             </td>
             <td valign="top">
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="48px" />&nbsp;
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="48px" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="48px" />&nbsp;&nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="48px" />&nbsp;&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" height="48px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" height="48px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" height="48px" />&nbsp;
+                <br><br>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jekyll/jekyll-original.svg" height="48px" />&nbsp;&nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" height="48px" />&nbsp;&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="48px" />
             </td>
         </tr>
@@ -114,10 +122,11 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
     <tbody>
         <tr>
             <td valign="top">
-                <img src="https://github.com/user-attachments/assets/d77a8a5f-5e28-4377-bc7b-6b6aa4a17bb9" height="48px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="48px" />
+                <img src="https://github.com/user-attachments/assets/d77a8a5f-5e28-4377-bc7b-6b6aa4a17bb9" height="48px" />&nbsp;&nbsp;
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="48px" />&nbsp;&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/portainer/portainer-original.svg" height="48px" />
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="48px" />&nbsp;
+                <br><br>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="48px" />&nbsp;&nbsp;
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" height="48px" />
             </td>
         </tr>

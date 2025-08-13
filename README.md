@@ -127,12 +127,10 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
 
 
 <div align="center"><h2><img align="center" src="https://github.com/user-attachments/assets/e90a1fda-bb4c-479b-8b1d-fc8b7ff7289a" width="48px"/> Root-Me </h2></div>
-(This widget may take several seconds to retrieve all the necessary data. I'm currently working on a better caching system. Therefore, if a broken image icon appears so, please hard refresh this page with Ctrl-Shift-R 👀)<br><br>
 <div align="center">
-    <img src="https://rm-widget.vercel.app/card/riblanc?width=800&border_color=333&bg_color=0d0f20e0&border_width=1&delay=750&salt=1175282704"/>
+    <img src="https://github.com/user-attachments/assets/dabea7ab-cc37-4043-abf8-6e2700e0edba"/>
 </div>
 
 <br>
 <div align="center"><h2><img align="center" src="https://github.com/user-attachments/assets/4c1b5065-e19b-4676-8933-c673a4188af6" width="48px"/>Curriculum vitæ</h2>
 <a href="#" width="100%"><img src="https://github.com/user-attachments/assets/04043264-d2bc-40ba-bfc7-55a9381c71ab" /></a>
-

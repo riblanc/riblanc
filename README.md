@@ -45,7 +45,7 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="48" alt="C"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++"/>&nbsp;
         <img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000" height="48" alt="ASM"/><br>
-        <small>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</small>
+        <small>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</small>
       </td>
       <td align="center" valign="top">
         <img src="https://github.com/user-attachments/assets/bd9b2bae-ac4d-4129-b8d0-312a840a3397" height="42" alt="Tool1"/>&nbsp;

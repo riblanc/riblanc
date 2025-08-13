@@ -19,6 +19,13 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
     <img src="https://github-readme-streak-stats-nu-opal-32.vercel.app?user=riblanc&theme=apprentice&background=0d0f20e0&border=333&card_width=350px&salt=1175282703"/>
 </div>
 
+
+<div align="center"><h2><img align="center" src="https://github.com/user-attachments/assets/e90a1fda-bb4c-479b-8b1d-fc8b7ff7289a" width="48px"/> Root-Me </h2></div>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/dabea7ab-cc37-4043-abf8-6e2700e0edba"/>
+</div>
+
+
 <div align="center"><h2><img align="center" src="https://img.icons8.com/?size=100&id=110189&format=png&color=000000" width="40px"/>&nbsp;&nbsp;Languages / Framework / Tools / Things I'm mastering</h2>
 
 <h3 align="center">🖥️ Système (app dev, embedded..)</h3>
@@ -124,13 +131,6 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
     </tr>
   </tbody>
 </table>
-
-
-
-<div align="center"><h2><img align="center" src="https://github.com/user-attachments/assets/e90a1fda-bb4c-479b-8b1d-fc8b7ff7289a" width="48px"/> Root-Me </h2></div>
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/dabea7ab-cc37-4043-abf8-6e2700e0edba"/>
-</div>
 
 <br>
 <div align="center"><h2><img align="center" src="https://github.com/user-attachments/assets/4c1b5065-e19b-4676-8933-c673a4188af6" width="48px"/>Curriculum vitæ</h2>

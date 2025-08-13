@@ -45,7 +45,7 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="48" alt="C"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="48" alt="C++"/>&nbsp;
         <img src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000" height="48" alt="ASM"/><br>
-        <small>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</small>
+        <small>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</small>
       </td>
       <td align="center" valign="top">
         <img src="https://github.com/user-attachments/assets/bd9b2bae-ac4d-4129-b8d0-312a840a3397" height="42" alt="Tool1"/>&nbsp;
@@ -53,7 +53,7 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="42" alt="Arduino"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="42" alt="Neovim"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clion/clion-original.svg" height="42" alt="CLion"/><br>
-        <small>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</small>
+        <small>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</small>
       </td>
       <td align="center" valign="top">
         <strong>x86 / x64</strong><br>
@@ -82,34 +82,34 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="42" alt="CSS3"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="38" alt="JS"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="38" alt="TS"/><br>
-        <small>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</small>
+        <small>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</small>
       </td>
       <td align="center" valign="top">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuxtjs/nuxtjs-original.svg" height="38" alt="Nuxt"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="38" alt="Vue"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" height="38" alt="Svelte"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="38" alt="Bootstrap"/><br>
-        <small>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</small>
+        <small>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</small>
       </td>
       <td align="center" valign="top">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" height="38" alt="NestJS"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" height="38" alt="FastAPI"/>&nbsp;
         <img src="https://github.com/user-attachments/assets/f6c308ad-365f-482f-a1a7-2333018ad6e2" height="38" alt="Other backend"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="38" alt="Django"/><br>
-        <small>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</small>
+        <small>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</small>
       </td>
       <td align="center" valign="top">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="38" alt="MySQL"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" height="38" alt="Postgres"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-plain.svg" height="38" alt="Redis"/><br>
-        <small>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</small>
+        <small>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</small>
       </td>
       <td align="center" valign="top">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="38" style="display: block" alt="Node"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="38" alt="Vite"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-original.svg" height="38" alt="ESLint"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" height="38" alt="WebStorm"/><br>
-        <small>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</small>
+        <small>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</small>
       </td>
     </tr>
   </tbody>
@@ -126,7 +126,7 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" height="42" alt="Grafana"/>&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" height="42" alt="Prometheus"/><br>
         <div><img src="https://github.com/user-attachments/assets/0ac0c1e6-0207-4138-ab3f-eee5d9fd8687" height="64" alt="Proxmox"/>&nbsp;</div>
-        <small>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;</small>
+        <small>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;</small>
       </td>
     </tr>
   </tbody>

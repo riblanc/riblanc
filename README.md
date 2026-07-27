@@ -1,14 +1,5 @@
-<div align="center"><h1>Hi there 👋 I'm riblanc</h1></div>
-
-<p>Passionate about both $\textsf{\color{#FFAF48}{arts}}$ and $\textsf{\color{#FFAF48}{sciences}}$, a perfectionist at heart, driven by curiosity, creativity, and an unrelenting desire to understand the world around me, I thrive on deepening my knowledge by sharing it with others.</p>
-
-As a student at $\textsf{\color{#3BB4E5}{42 school}}$, I have honed a strong ability to adapt to new environments and tackle complex challenges, whether independently or collaboratively, often under tight deadlines
-
-I really don't like to describe myself as a "**Full stack developer**", I don't like that term and I trully don't like the people who identify themselves as such either.
-<br>Much like Dirk Gently, I approach software development with a firm belief in the profound interconnectedness of all things. I guess "**holistic developer**" would be more appropriate ? :eyes:
-
 <div align="center">
-    <h1>I'm currently working on</h1>
+    <h2>I'm currently working on</h2>
     <a href="https://github.com/shadokos/kfs">
         <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=shadokos&repo=kfs&theme=apprentice&bg_color=0d0f20e0&border_color=333&card_width=350px"/>
     </a>
@@ -26,7 +17,7 @@ I really don't like to describe myself as a "**Full stack developer**", I don't 
 </div>
 
 
-<div align="center"><h2><img align="center" src="https://img.icons8.com/?size=100&id=110189&format=png&color=000000" width="40px"/>&nbsp;&nbsp;Languages / Framework / Tools / Things I'm mastering</h2>
+<div align="center"><h2><img align="center" src="https://img.icons8.com/?size=100&id=110189&format=png&color=000000" width="40px"/>&nbsp;&nbsp;Languages / Framework / Tools / Things </h2>
 
 <h3 align="center">🖥️ Système (app dev, embedded..)</h3>
 <table align="center">

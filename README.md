@@ -6,7 +6,7 @@
 </div>
 
 <div align="center"><h2><img align="center" src="https://github.com/user-attachments/assets/60ab2e3d-a8e1-41c2-965f-0714d8931fca" width="40px"/>&nbsp;&nbsp;GitHub Stats</h2>
-    <img src="https://github-stats-extended.vercel.app/api?username=riblanc&owner=riblanc%2Cemkagari%2Cshadokos&role=OWNER,COLLABORATOR&show_icons=true&theme=apprentice&bg_color=0d0f20e0&border_color=333&card_width=400px&salt=1175282703"/>
+    <img src="https://github-stats-extended.vercel.app/api?username=riblanc&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&exclude_repo=bootcamp_python,bootcamp_machine-learning,bootcamp_data-engineering,42ai_resources,workshops_mathematics,bootcamp_deep-learning,workshops_ml_2018,workshops_ml_2019,Python-Bootcamp-Corrections,42ai_pdf_builder,champions_for_corewar,42ai_alphapilot_challenge,StyleTransferMirror,42ai_autonomous_cars,workshops_cv,Patate,conferences,MLP_reworked,Elegant-Elegans,42-ai.github.io,DBMS,SentimentalBB,FeatherlessAI,ExplosiveAI,Template_Lab,Speech2Text,sir-hiss,AIworkshops&show_icons=true&theme=apprentice&bg_color=0d0f20e0&border_color=333&card_width=400px&salt=1175282705"/>
     <img src="https://github-readme-streak-stats-nu-opal-32.vercel.app?user=riblanc&theme=apprentice&background=0d0f20e0&border=333&card_width=350px&salt=1175282703"/>
 </div>
 
